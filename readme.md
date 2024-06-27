@@ -15,6 +15,7 @@ To open the notebook in Google Colab, follow these steps:
  <a target="_blank" href="https://colab.research.google.com/github/Beich2010/uebung_2024_data_analysis">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 2. Select the notebook file (`excercise_2024_data_analysis.ipynb`) to Colab.
 3. Start running the cells.
 
@@ -25,6 +26,7 @@ Binder provides a way to create sharable, interactive notebooks that run in the 
 To open the notebook in Binder, follow these steps:
 1. Click on the following button: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beich2010/uebung_2024_data_analysis/HEAD)
+
 2. Launch the environment and open the notebook file (`excercise_2024_data_analysis.ipynb`).
 
 ### 3. Local Environment
