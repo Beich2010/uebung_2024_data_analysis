@@ -15,6 +15,8 @@ To open the notebook in Google Colab, follow these steps:
  <a target="_blank" href="https://colab.research.google.com/github/Beich2010/uebung_2024_data_analysis">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 
+  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Beich2010/uebung_2024_data_analysis)
+
 2. Select the notebook file (`excercise_2024_data_analysis.ipynb`) to Colab.
 3. Start running the cells.
 
