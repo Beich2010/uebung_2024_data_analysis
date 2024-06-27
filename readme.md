@@ -11,7 +11,8 @@ There are three recommended ways to open and run the notebook:
 Google Colab is a free, cloud-based Jupyter notebook environment that allows you to run Python code in your browser without any setup.
 
 To open the notebook in Google Colab, follow these steps:
-1. Click on the following link: <a target="_blank" href="https://colab.research.google.com/github/Beich2010/uebung_2024_data_analysis">
+1. Click on the following button:
+ <a target="_blank" href="https://colab.research.google.com/github/Beich2010/uebung_2024_data_analysis">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 2. Select the notebook file (`excercise_2024_data_analysis.ipynb`) to Colab.
@@ -22,7 +23,8 @@ To open the notebook in Google Colab, follow these steps:
 Binder provides a way to create sharable, interactive notebooks that run in the cloud. It requires minimal setup and is a good alternative to Google Colab.
 
 To open the notebook in Binder, follow these steps:
-1. Click on the following link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beich2010/uebung_2024_data_analysis/HEAD)
+1. Click on the following button: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Beich2010/uebung_2024_data_analysis/HEAD)
 2. Launch the environment and open the notebook file (`excercise_2024_data_analysis.ipynb`).
 
 ### 3. Local Environment
@@ -59,8 +61,6 @@ To install and run the notebook locally, follow these steps:
 - If you encounter any issues or have questions, please refer to the course resources or contact the course instructor.
 
 Happy analyzing!
-
-
 
 
 <a target="_blank" href="https://colab.research.google.com/github/Beich2010/uebung_2024_data_analysis">
